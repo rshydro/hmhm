@@ -20,3 +20,5 @@ e = mc^2
 :::{note}
 Here is a note!
 :::
+
+Here is my nifty citation {cite}`perez2011python`.
