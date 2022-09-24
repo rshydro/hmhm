@@ -21,4 +21,4 @@ e = mc^2
 Here is a note!
 :::
 
-Here is my nifty citation {cite}`perez2011python`.
+Here is my nifty citation {cite}`holdgraf_rapid_2016`.
