@@ -21,4 +21,4 @@ e = mc^2
 Here is a note!
 :::
 
-Here is my nifty citation {cite}`holdgraf_rapid_2016`.
+Here is our nifty citation {cite}`holdgraf_rapid_2016`.
