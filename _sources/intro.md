@@ -22,3 +22,15 @@ Here is a note!
 :::
 
 Here is our nifty citation {cite}`holdgraf_rapid_2016`.
+
+$$
+  \int_0^\infty \frac{x^3}{e^x-1}\,dx = \frac{\pi^4}{15}
+$$
+
+
+$$
+  w_{t+1} = (1 + r_{t+1}) s(w_t) + y_{t+1}
+$$ (my_other_label)
+
+
+- A link to a dollar math block: {eq}`my_other_label`
